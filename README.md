@@ -6,6 +6,9 @@ This project is ideal for anyone interested in learning more about their chattin
 
 Features:-
 📊 Detailed Chat Analysis: Analyze messages over time, top contributors, and identify peak times.
+
 💬 Most Used Words & Emojis: See frequently used words, phrases, and emojis in your chats.
+
 ⏰ Activity Insights: Discover the busiest hours and days for messaging.
+
 📈 Data Visualizations: Get visual summaries of the chat data, including graphs for activity trends and user contributions.
